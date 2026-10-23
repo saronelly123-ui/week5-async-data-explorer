@@ -198,7 +198,11 @@ npm run build
 ```
 
 Vite generates the production files in the `dist` directory.
+## Demo Video
 
+Watch the demonstration of the Async Data Fetching Practice project:
+
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1H96w9QcBMV34OFuEujprTBhNW7NJvTgq/view?usp=sharing)
 ## Author
 
 **Saro Nelly Hornella Vanessa**
