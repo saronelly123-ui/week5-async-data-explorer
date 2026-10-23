@@ -1,5 +1,5 @@
 
-const BASE_URL = 'https://dummyjson.com';
+const BASE_URL = 'https:///dummyjson.com';
 
 export async function getJSON(url) {
   try {
